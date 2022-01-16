@@ -25,7 +25,7 @@ public class AnimalsCage {
         System.out.println("________________________");
     }
 
-    @Bean
+
     public Timer getTimer() {
         return timer;
     }
